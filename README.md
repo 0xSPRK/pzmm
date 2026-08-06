@@ -13,11 +13,11 @@ FOSS Mod manager for Project Zomboid
 # How to use
 > [!NOTE]
 > You must have installed python, steamcmd!
-1. Install depencies
+1. Install dependencies
 ```
 pip install PyQt6 PyQt6-WebEngine requests
 ```
-3. Run script
+2. Run script
 ```
 py pzmm.py
 ```
@@ -25,5 +25,5 @@ py pzmm.py
 # Languages
 | Name      | Supported |
 | --------- | --------- |
-| English   | ❌ (WIP)  |
-| Russian   | ☑️        |
+| English   | WIP |
+| Russian   | Да  |
