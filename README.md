@@ -64,7 +64,7 @@
 
 ```bash
 # 1. Клонируйте репозиторий
-git clone https://github.com/SparkleSavvy/pzmm
+git clone https://github.com/0xSPRK/pzmm
 cd pzmm
 
 # 2. Установите зависимости

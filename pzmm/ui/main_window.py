@@ -63,7 +63,7 @@ class MainWindow(QMainWindow):
         self.gh_btn = QPushButton("GitHub")
         self.gh_btn.setObjectName("GhostBtn")
         self.gh_btn.clicked.connect(
-            lambda: webbrowser.open("https://github.com/SparkleSavvy/pzmm")
+            lambda: webbrowser.open("https://github.com/0xSPRK/pzmm")
         )
 
         self.set_btn = QPushButton(tr("btn_settings"))
